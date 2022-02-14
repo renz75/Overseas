@@ -31,6 +31,8 @@ public class MainActivity extends AppCompatActivity {
         amountEditText = (EditText) findViewById(R.id.amountEditText);
         resultTextView = (TextView) findViewById(R.id.resultTextView);
 
+        // Code should have a switch
+
         mButton.setOnClickListener(new View.OnClickListener() {
 
 
