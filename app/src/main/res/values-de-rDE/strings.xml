@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Overseas</string>
     <string name="enter_length_feet">Länge in Fuß angeben</string>
-    <string name="mbuttom_text">In Meter</string>
-    <string name="cmbuttom_text">In cm</string>
     <string name="result_text">Ergebnis</string>
+    <string name="mbutton_text">In Meter</string>
+    <string name="cmbutton_text">In cm</string>
 </resources>

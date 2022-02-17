@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Overseas</string>
     <string name="enter_length_feet">Enter the length in feet</string>
-    <string name="mbuttom_text">To meters</string>
-    <string name="cmbuttom_text">To cms</string>
+    <string name="mbutton_text">To meters</string>
+    <string name="cmbutton_text">To cms</string>
     <string name="result_text">Result</string>
 </resources>

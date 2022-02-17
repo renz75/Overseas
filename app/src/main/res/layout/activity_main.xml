@@ -7,9 +7,8 @@
     android:columnCount="2"
     android:paddingLeft="@dimen/padding_left"
     android:paddingTop="@dimen/padding_top"
-
     android:paddingRight="@dimen/padding_right"
-    android:paddingBottom="@dimen/padding_buttom"
+    android:paddingBottom="@dimen/padding_bottom"
     android:useDefaultMargins="true"
     tools:context=".MainActivity">
 
@@ -36,8 +35,8 @@
         android:layout_row="1"
         android:layout_column="0"
         android:layout_columnSpan="2"
-        android:layout_gravity="center_horizontal"
 
+        android:layout_gravity="fill_horizontal"
         android:background="@color/result_background"
         android:elevation="@dimen/elevation"
         android:padding="@dimen/textView_paddingInside"
@@ -54,7 +53,7 @@
         android:layout_gravity="center_horizontal"
         android:background="@color/buttom_background"
         android:gravity="center_vertical"
-        android:text="@string/mbuttom_text"
+        android:text="@string/mbutton_text"
         app:rippleColor="@color/buttom_background" />
 
     <Button
@@ -67,6 +66,6 @@
         android:layout_gravity="center_horizontal"
         android:background="@color/buttom_background"
         android:gravity="center_vertical"
-        android:text="@string/cmbuttom_text"
+        android:text="@string/cmbutton_text"
         app:rippleColor="@color/buttom_background" />
 </GridLayout>

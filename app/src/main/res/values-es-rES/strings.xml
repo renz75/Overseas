@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Overseas</string>
     <string name="enter_length_feet">Entre la longitud en pies</string>
-    <string name="mbuttom_text">A metros</string>
-    <string name="cmbuttom_text">A centímetros</string>
     <string name="result_text">Resultado</string>
+    <string name="mbutton_text">A metros</string>
+    <string name="cmbutton_text">A centímetros</string>
 </resources>
